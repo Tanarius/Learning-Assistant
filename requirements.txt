@@ -1,0 +1,10 @@
+# Learning Assistant - Python Dependencies
+# Built-in modules used: tkinter, ast, threading, pathlib, json, datetime, os, sys, re
+
+# No external dependencies required - uses only Python standard library!
+# This makes the Learning Assistant easy to install and run on any Python environment.
+
+# Optional dependencies for enhanced functionality (future versions):
+# requests==2.31.0     # For potential web API integration
+# matplotlib==3.7.2    # For learning progress visualization charts
+# plotly==5.15.0       # For interactive skill development graphs
