@@ -1,0 +1,741 @@
+{
+  "analysis_timestamp": "2025-08-26T22:28:58.047019",
+  "jobs_analyzed_count": 8,
+  "jobs_analyzed": [
+    {
+      "title": "AI Engineer",
+      "company": "Elios Talent",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Elios Talent",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Elios Talent",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "application_score": 8.4
+    },
+    {
+      "title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "application_score": 8.4
+    }
+  ],
+  "current_skills": {
+    "python_gui": "intermediate",
+    "multithreading": "beginner",
+    "concurrent_programming": "beginner",
+    "api_integration": "intermediate",
+    "data_processing": "intermediate",
+    "python": "intermediate",
+    "infrastructure": "advanced",
+    "windows_server": "advanced",
+    "active_directory": "advanced",
+    "linux": "intermediate",
+    "networking": "intermediate",
+    "automation": "intermediate"
+  },
+  "job_analyses": [
+    {
+      "job_title": "AI Engineer",
+      "company": "Elios Talent",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 8,
+          "learning_priority": 5,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 8,
+          "learning_priority": 5,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 8,
+          "learning_priority": 5,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Engineer",
+      "company": "Elios Talent",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Engineer",
+      "company": "Elios Talent",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    },
+    {
+      "job_title": "AI Data & Python Tools Engineer",
+      "company": "OSI Engineering",
+      "required_skills": [
+        "apis",
+        "automation",
+        "api_development",
+        "python",
+        "cloud platforms",
+        "infrastructure"
+      ],
+      "preferred_skills": [],
+      "missing_skills": [
+        "apis",
+        "api_development",
+        "cloud platforms"
+      ],
+      "skill_gaps": [
+        {
+          "skill_name": "apis",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "api_development",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        },
+        {
+          "skill_name": "cloud platforms",
+          "required_level": "intermediate",
+          "current_level": "none",
+          "gap_severity": 8.0,
+          "job_frequency": 1,
+          "learning_priority": 3,
+          "resources": [],
+          "time_estimate": "2-4 months"
+        }
+      ],
+      "overall_match_score": 50.0,
+      "readiness_timeline": "3-6 months with dedicated study"
+    }
+  ],
+  "prioritized_skill_gaps": [
+    {
+      "skill_name": "apis",
+      "required_level": "intermediate",
+      "current_level": "none",
+      "gap_severity": 8.0,
+      "job_frequency": 8,
+      "learning_priority": 5,
+      "resources": [],
+      "time_estimate": "2-4 months"
+    },
+    {
+      "skill_name": "api_development",
+      "required_level": "intermediate",
+      "current_level": "none",
+      "gap_severity": 8.0,
+      "job_frequency": 8,
+      "learning_priority": 5,
+      "resources": [],
+      "time_estimate": "2-4 months"
+    },
+    {
+      "skill_name": "cloud platforms",
+      "required_level": "intermediate",
+      "current_level": "none",
+      "gap_severity": 8.0,
+      "job_frequency": 8,
+      "learning_priority": 5,
+      "resources": [],
+      "time_estimate": "2-4 months"
+    }
+  ],
+  "ai_recommendations": {
+    "ai_generated": false,
+    "recommendations": [
+      {
+        "skill": "apis",
+        "resources": [
+          "Official apis documentation",
+          "YouTube tutorials for apis",
+          "Practice projects with apis"
+        ],
+        "projects": [
+          "Integrate apis into existing automation projects",
+          "Create demo project showcasing apis"
+        ],
+        "time_estimate": "2-4 months",
+        "quick_wins": [
+          "Complete basic apis tutorial",
+          "Add apis to a simple project"
+        ]
+      },
+      {
+        "skill": "api_development",
+        "resources": [
+          "Official api_development documentation",
+          "YouTube tutorials for api_development",
+          "Practice projects with api_development"
+        ],
+        "projects": [
+          "Integrate api_development into existing automation projects",
+          "Create demo project showcasing api_development"
+        ],
+        "time_estimate": "2-4 months",
+        "quick_wins": [
+          "Complete basic api_development tutorial",
+          "Add api_development to a simple project"
+        ]
+      },
+      {
+        "skill": "cloud platforms",
+        "resources": [
+          "Official cloud platforms documentation",
+          "YouTube tutorials for cloud platforms",
+          "Practice projects with cloud platforms"
+        ],
+        "projects": [
+          "Integrate cloud platforms into existing automation projects",
+          "Create demo project showcasing cloud platforms"
+        ],
+        "time_estimate": "2-4 months",
+        "quick_wins": [
+          "Complete basic cloud platforms tutorial",
+          "Add cloud platforms to a simple project"
+        ]
+      }
+    ],
+    "generated_at": "2025-08-26T22:28:58.046895",
+    "note": "Template-based recommendations. Enable OpenAI for personalized learning paths."
+  },
+  "learning_paths": [
+    {
+      "skill_area": "Cloud & Infrastructure",
+      "current_level": "beginner",
+      "target_level": "intermediate",
+      "total_time_estimate": "2-4 months",
+      "steps": [
+        {
+          "step": "Foundation: Learn cloud platforms basics",
+          "duration": "1-2 weeks",
+          "resources": [
+            "Official cloud platforms documentation",
+            "Beginner tutorials"
+          ],
+          "deliverable": "Basic cloud platforms demo project"
+        },
+        {
+          "step": "Practice: Build cloud platforms project",
+          "duration": "2-3 weeks",
+          "resources": [
+            "Hands-on cloud platforms projects",
+            "Community forums"
+          ],
+          "deliverable": "Portfolio-worthy cloud platforms application"
+        },
+        {
+          "step": "Integration: Add cloud platforms to existing projects",
+          "duration": "1-2 weeks",
+          "resources": [
+            "Existing codebase",
+            "Integration tutorials"
+          ],
+          "deliverable": "Enhanced automation bot with cloud platforms"
+        }
+      ],
+      "projects": [
+        "Build cloud platforms demonstration project",
+        "Integrate cloud platforms into Memory Platform",
+        "Create cloud platforms automation tool"
+      ],
+      "milestones": [
+        "Complete basic cloud platforms tutorial",
+        "Build first cloud platforms project",
+        "Deploy cloud platforms in production"
+      ],
+      "success_metrics": [
+        "Can explain cloud platforms concepts clearly",
+        "Has working cloud platforms project in portfolio",
+        "Can implement cloud platforms solutions independently"
+      ]
+    },
+    {
+      "skill_area": "DevOps & Automation",
+      "current_level": "beginner",
+      "target_level": "intermediate",
+      "total_time_estimate": "2-4 months",
+      "steps": [
+        {
+          "step": "Foundation: Learn apis basics",
+          "duration": "1-2 weeks",
+          "resources": [
+            "Official apis documentation",
+            "Beginner tutorials"
+          ],
+          "deliverable": "Basic apis demo project"
+        },
+        {
+          "step": "Practice: Build apis project",
+          "duration": "2-3 weeks",
+          "resources": [
+            "Hands-on apis projects",
+            "Community forums"
+          ],
+          "deliverable": "Portfolio-worthy apis application"
+        },
+        {
+          "step": "Integration: Add apis to existing projects",
+          "duration": "1-2 weeks",
+          "resources": [
+            "Existing codebase",
+            "Integration tutorials"
+          ],
+          "deliverable": "Enhanced automation bot with apis"
+        },
+        {
+          "step": "Foundation: Learn api_development basics",
+          "duration": "1-2 weeks",
+          "resources": [
+            "Official api_development documentation",
+            "Beginner tutorials"
+          ],
+          "deliverable": "Basic api_development demo project"
+        },
+        {
+          "step": "Practice: Build api_development project",
+          "duration": "2-3 weeks",
+          "resources": [
+            "Hands-on api_development projects",
+            "Community forums"
+          ],
+          "deliverable": "Portfolio-worthy api_development application"
+        },
+        {
+          "step": "Integration: Add api_development to existing projects",
+          "duration": "1-2 weeks",
+          "resources": [
+            "Existing codebase",
+            "Integration tutorials"
+          ],
+          "deliverable": "Enhanced automation bot with api_development"
+        }
+      ],
+      "projects": [
+        "Build apis demonstration project",
+        "Integrate apis into Memory Platform",
+        "Create apis automation tool"
+      ],
+      "milestones": [
+        "Complete basic apis tutorial",
+        "Build first apis project",
+        "Deploy apis in production",
+        "Complete basic api_development tutorial",
+        "Build first api_development project"
+      ],
+      "success_metrics": [
+        "Can explain apis concepts clearly",
+        "Has working apis project in portfolio",
+        "Can implement apis solutions independently",
+        "Can explain api_development concepts clearly"
+      ]
+    }
+  ],
+  "overall_readiness": {
+    "overall_score": 50.0,
+    "status": "Development Phase - 3-6 months needed",
+    "individual_scores": [
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0
+    ],
+    "best_match_score": 50.0,
+    "worst_match_score": 50.0,
+    "recommendations": [
+      "Systematic skill building required",
+      "Consider bootcamp or intensive training"
+    ]
+  },
+  "next_actions": [
+    "🎯 IMMEDIATE PRIORITIES (Next 2 weeks):",
+    "1. Start learning apis - Priority 5/5",
+    "2. Start learning api_development - Priority 5/5",
+    "3. Start learning cloud platforms - Priority 5/5",
+    "",
+    "📚 LEARNING ACTIONS:",
+    "• Choose one primary skill from the top 3 to focus on first",
+    "• Dedicate 1-2 hours daily to structured learning",
+    "• Build a portfolio project incorporating the new skill",
+    "",
+    "🔧 INTEGRATION ACTIONS:",
+    "• Add new skills to existing automation projects",
+    "• Update resume and portfolio to reflect learning progress",
+    "• Document learning journey for personal brand building",
+    "",
+    "📈 TRACKING ACTIONS:",
+    "• Set weekly learning goals and milestones",
+    "• Re-run this analysis monthly to track progress",
+    "• Apply to 1-2 jobs while learning to get market feedback"
+  ]
+}

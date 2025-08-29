@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-08-26T22:06:20.061040",
+    "analysis_type": "job_skill_gap_analysis",
+    "skills_analyzed": [
+      "python_gui",
+      "multithreading",
+      "concurrent_programming",
+      "api_integration",
+      "data_processing",
+      "python",
+      "infrastructure",
+      "windows_server",
+      "active_directory",
+      "linux",
+      "networking",
+      "automation"
+    ],
+    "job_count": 8,
+    "recommendations_generated": false
+  },
+  {
+    "timestamp": "2025-08-26T22:28:58.048250",
+    "analysis_type": "job_skill_gap_analysis",
+    "skills_analyzed": [
+      "python_gui",
+      "multithreading",
+      "concurrent_programming",
+      "api_integration",
+      "data_processing",
+      "python",
+      "infrastructure",
+      "windows_server",
+      "active_directory",
+      "linux",
+      "networking",
+      "automation"
+    ],
+    "job_count": 8,
+    "recommendations_generated": false
+  },
+  {
+    "timestamp": "2025-08-26T22:34:21.587056",
+    "analysis_type": "job_skill_gap_analysis",
+    "skills_analyzed": [
+      "python_gui",
+      "multithreading",
+      "concurrent_programming",
+      "api_integration",
+      "data_processing",
+      "python",
+      "infrastructure",
+      "windows_server",
+      "active_directory",
+      "linux",
+      "networking",
+      "automation",
+      "web_scraping",
+      "api_development"
+    ],
+    "job_count": 8,
+    "recommendations_generated": false
+  }
+]
